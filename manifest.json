@@ -1,0 +1,6 @@
+{
+  "name": "polymer-task",
+  "short_name": "polymer-task",
+  "start_url": "/",
+  "display": "standalone"
+}

@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "EncodeSans-Black";
+    src: url("./fonts/font-encode-sans/EncodeSans-Black.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "EncodeSans-Bold";
+    src: url("./fonts/font-encode-sans/EncodeSans-Bold.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "EncodeSans-ExtraBold";
+    src: url("./fonts/font-encode-sans/EncodeSans-ExtraBold.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "EncodeSans-ExtraLight";
+    src: url("./fonts/font-encode-sans/EncodeSans-ExtraLight.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "EncodeSans-Light";
+    src: url("./fonts/font-encode-sans/EncodeSans-Light.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "EncodeSans-Medium";
+    src: url("./fonts/font-encode-sans/EncodeSans-Medium.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "EncodeSans-Regular";
+    src: url("./fonts/font-encode-sans/EncodeSans-Regular.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "EncodeSans-SemiBold";
+    src: url("./fonts/font-encode-sans/EncodeSans-SemiBold.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "EncodeSans-thin";
+    src: url("./fonts/font-encode-sans/EncodeSans-Thin.ttf") format("truetype");
+  }
